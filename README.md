@@ -32,7 +32,7 @@ Uses Graphs (*Sorry!* It's only one behaviour, though!)
 
 You're done! That's it! 👍
 
-### [Please read the full docs!](https://github.com/kid-kwazine/Udon-Dynamic-Soundtrack-Controller/blob/95e42c8e0bb0172f564eb5625f39f08c0e586aab/HTI%20DSC%20v1.0.0%20-%20Documentation.pdf)
+### [Please read the full docs!](https://github.com/kid-kwazine/Udon-Dynamic-Soundtrack-Controller/blob/8cf763de0a3b56e15ab699d9a819aadaaf8ca7b0/HTI%20DSC%20v1.0.0%20-%20Documentation.pdf)
 > *Docs further explain the benefits of scheduling, various start behaviours, covers invoking custom (game) events off audio cue end/start, syncing, interrupt/instant transitions, common errors/troubleshooting, best practices, etc.*
 
 
