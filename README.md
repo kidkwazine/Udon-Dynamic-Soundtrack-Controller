@@ -2,7 +2,7 @@
 
 **A prefab for scheduling dynamic soundtracks that musically switch between sections/loops/bars (for VRChat!)**
 
-This system is built around the idea of "audio scenes" in which each scene is a new cue for the music. It uses dspTime (recently exposed in Udon) for precise scheduling! It handles moving between loops/bars, playing one-time transitions sections into loops, and can fire off external game events at the end of cues if desired. 
+This system is built around the idea of "audio scenes" in which each scene is a new cue for the music. It uses dspTime (recently exposed in Udon) for precise scheduling! It handles moving between loops/bars, playing one-time transitions section into loops, and can fire off external game events at the end of cues if desired. 
 
 Uses Graphs (Sorry!)
 
