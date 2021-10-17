@@ -1,20 +1,27 @@
 ![ReadmeBanner](https://user-images.githubusercontent.com/16472141/137603172-119a2cc1-a047-4984-bfc6-0c76123e185b.jpg)
 
-**A prefab for scheduling dynamic soundtracks that musically switch between sections/loops/bars (for VRChat!)**
+**A prefab for scheduling dynamic soundtracks that musically switch between sections/loops/bars (in VRChat!)**
 
-This system is built around the idea of "audio scenes" in which each scene is a new cue for the music. It uses dspTime (recently exposed in Udon) for precise scheduling! It handles moving between loops/bars, playing one-time transition sections into loops, and can fire off external game events at the end of cues if desired. 
+This allows you to create dynamic soundtracks directed by player action/gameplay or even build dynamic "music video" experiences
+
+This system is built around the idea of "audio scenes" in which each scene is a new cue for the music. It uses dspTime (recently exposed in Udon) for precise scheduling! It handles moving between loops/bars, playing one-time transition sections into loops, instant stab/stinger transitions, and can fire off external game events at the end of cues if desired. 
 
 Uses Graphs (Sorry!)
 
 ----
 
+### Setup:
+
+- [Download](https://vrchat.com/home/download) + import the latest version of *SDK3 - Worlds* from VRChat
+- [Download](https://github.com/kid-kwazine/Udon-Dynamic-Soundtrack-Controller/releases) + import the latest version of Dynamic Soundtrack Controller into your project
+- Drag-and-drop the newly imported Dynamic Soundtrack Controller prefab into your scene 
+
+-----
+
 ### Quick Start:
 #### *Simple queueing and scheduling of music sections*
 
-
-
-- Drag-and-drop the prefab into your scene hierarchy
-- Populate the `audioCues` array with your audio clips/loops
+- Drag over + populate the `audioCues` array with your audio clips/loops
 - Change the `audioScene` value at runtime + it will schedule/play through your loops automatically!
 
 #### *Transition Cues / Audio Scenes That Play One Time + Move Onto The Next Scene*
@@ -26,7 +33,7 @@ Uses Graphs (Sorry!)
 You're done! That's it! 👍
 
 ### [Please read the full docs!](https://github.com/kid-kwazine/Udon-Dynamic-Soundtrack-Controller/blob/95e42c8e0bb0172f564eb5625f39f08c0e586aab/HTI%20DSC%20v1.0.0%20-%20Documentation.pdf)
-> *Docs further explain the benefits of scheduling, cover firing custom (game) events off audio cue end/start, syncing, interrupt transitions, common errors/troubleshooting, best practices, etc.*
+> *Docs further explain the benefits of scheduling, various start behaviours, covers invoking custom (game) events off audio cue end/start, syncing, interrupt/instant transitions, common errors/troubleshooting, best practices, etc.*
 
 
 
