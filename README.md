@@ -8,7 +8,7 @@ Uses Graphs (Sorry!)
 
 ----
 
-### Simple / Basic Setup:
+### Quick Start:
 #### *Simple queueing and scheduling of music sections*
 
 
@@ -25,9 +25,11 @@ Uses Graphs (Sorry!)
 
 You're done! That's it! 👍
 
-### Nuanced Setup
-*Firing Game Events Off Audio Cues, Syncing, Custom Starts, Best Practices*
-- There's documentation! <!-- Need to write that -->
+### [Please reads the full docs!](https://github.com/kid-kwazine/Udon-Dynamic-Soundtrack-Controller/blob/58dd17fe838fe347a1666fd532c447b6ad0971e8/DSC%20-%20Docs%20(2021-10-16).pdf)
+> *Docs cover firing custom (game) events off audio cue end/start, syncing, interrupt transitions, best practices, etc.*
+
+
+
 
 ----
 
