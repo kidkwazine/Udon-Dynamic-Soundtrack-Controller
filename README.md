@@ -6,7 +6,7 @@ This allows you to create dynamic soundtracks directed by player action/gameplay
 
 This system is built around the idea of "audio scenes" in which each scene is a new cue for the music. It uses dspTime (recently exposed in Udon) for precise scheduling! It handles moving between loops/bars, playing one-time transition sections into loops, instant stab/stinger transitions, and can fire off external game events at the end of cues if desired. 
 
-Uses Graphs (Sorry!)
+Uses Graphs (*Sorry!* It's only one behaviour, though!)
 
 ----
 
