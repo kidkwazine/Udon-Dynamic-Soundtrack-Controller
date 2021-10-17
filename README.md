@@ -25,8 +25,8 @@ Uses Graphs (Sorry!)
 
 You're done! That's it! 👍
 
-### [Please reads the full docs!](https://github.com/kid-kwazine/Udon-Dynamic-Soundtrack-Controller/blob/58dd17fe838fe347a1666fd532c447b6ad0971e8/DSC%20-%20Docs%20(2021-10-16).pdf)
-> *Docs further explain the benefits of scheduling, cover firing custom (game) events off audio cue end/start, syncing, interrupt transitions, best practices, etc.*
+### [Please read the full docs!](https://github.com/kid-kwazine/Udon-Dynamic-Soundtrack-Controller/blob/95e42c8e0bb0172f564eb5625f39f08c0e586aab/HTI%20DSC%20v1.0.0%20-%20Documentation.pdf)
+> *Docs further explain the benefits of scheduling, cover firing custom (game) events off audio cue end/start, syncing, interrupt transitions, common errors/troubleshooting, best practices, etc.*
 
 
 
