@@ -1,6 +1,6 @@
 ![ReadmeBanner](https://user-images.githubusercontent.com/16472141/137603172-119a2cc1-a047-4984-bfc6-0c76123e185b.jpg)
 
-**A prefab for scheduling dynamic soundtracks that musically switch between sections/loops/bars (in VRChat!)**
+**A prefab for scheduling audio that musically switch between sections/loops/bars (in VRChat!)**
 
 This allows you to create dynamic soundtracks directed by player action/gameplay or even build dynamic "music video" experiences
 
