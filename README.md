@@ -45,6 +45,6 @@ Will try to get some form of demo/tutorial video out before the end of the year 
 
 Required:
 - Unity 2019.4.31f1 + The Patience To Use It
-- [VRCSDK3-WORLD-2021.xx.x.xx.xx and above](https://vrchat.com/home/download) (when they exposed dspTime) <!-- Fill this with actual SDK dates when it goes live -->
+- [VRCSDK3-WORLD-2021.11.08.14.28](https://vrchat.com/home/download) (when they exposed dspTime) 
 
 Have fun + show me if you make anything cool w it! ✨
